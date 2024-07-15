@@ -63,7 +63,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ### Languages
 | Python3 | C |
-|----------|----------|----------|-----|-----|
+|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | 
   
 ### Frameworks and libraries for Python3
@@ -75,7 +75,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 ### Tools for Data Processing & Visualisation
 
 | Conda | Jupyter | Spark | Postgres | SQLite | Plotly | Matplotlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|-
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
 
  <!--    
@@ -106,6 +106,9 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
 
 --> 
+
+
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
@@ -144,6 +147,8 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
   <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>
 -->
+
+
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
