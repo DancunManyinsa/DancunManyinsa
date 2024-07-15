@@ -25,7 +25,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 ### Social media: 📡    
 Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/a/#394627371)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/david_softwareengineer)
 
 ## Competitions: 🥇
  
