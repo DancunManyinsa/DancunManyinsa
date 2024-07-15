@@ -107,7 +107,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 --> 
 
-
+### Development Tools
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
