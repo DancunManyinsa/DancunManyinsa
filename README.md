@@ -58,7 +58,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 - Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
 -->
 
-## Languages and Tools 
+## Programming Languages and Data Engineering Tools 
 <div>
 
 ### Languages
