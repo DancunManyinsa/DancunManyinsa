@@ -59,7 +59,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 -->
 
 ## Programming Languages and Data Engineering Tools 
-<div>
+
 
 ### Languages
 | Python3 | C |
