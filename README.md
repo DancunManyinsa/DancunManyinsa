@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devopsengineerDan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/DancunManyinsa/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DancunManyinsa&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/DancunManyinsa/github-profile-trophy)
 
 
 ### About    
