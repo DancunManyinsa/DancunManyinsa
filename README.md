@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hey+%2C+I+am+Dancun;I+am+a+Software+Engineer+ %F0%9F%95%B5%EF%B8%8F+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+root+user+%F0%9F%92%BB">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hey+%2C+I+am+Dancun;I+am+a+Software+Engineer+%F0%9F%95%B5%EF%B8%8F+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+root+user+%F0%9F%92%BB">
 </p>
 <br/>
 
