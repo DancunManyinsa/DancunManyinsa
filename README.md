@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=DancunManyinsa&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/DancunManyinsa/github-profile-trophy) -->
 
+<br/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hey+%2C+I+am+Dancun;I+am+a+Software Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+root+user+%F0%9F%92%BB;>
+</p>
+<br/>
 
 ### About    
 I am a software engineer specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
@@ -64,8 +69,8 @@ Programming Languages and Data Engineering Tools
 
 </div>
 
-
-
+### Servers
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
