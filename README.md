@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=DancunManyinsa&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/DancunManyinsa/github-profile-trophy) -->
 
+
+
+
+<div>
+
 <br/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hey+%2C+I+am+Dancun;I+am+a+software+engineer+%F0%9F%95%B5%EF%B8%8F+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+root+user+%F0%9F%92%BB">
@@ -32,11 +37,8 @@ I am a software engineer specializing in recurrent neural networks (RNN) and LST
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/david_softwareengineer)
 
 
-
 Programming Languages and Data Engineering Tools 
 ====
-
-<div>
 
  ### Languages
  
@@ -68,9 +70,6 @@ Programming Languages and Data Engineering Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
 
-</div>
-
-
 ### API Tool
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -84,6 +83,11 @@ Programming Languages and Data Engineering Tools
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+
+</div>
+
+
+
 
 
 
