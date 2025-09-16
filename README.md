@@ -27,6 +27,29 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
+                                            .~JG#&@@&#B57:                                      
+                                          .J#@@@@@@@@@@@@&5^                                    
+                                         ~#@@@@@@@@@@@@@@@@@J                                   
+                                        ^&@@@@@@@@@@@@@@@@@@@J                                  
+                                        5@@@@@@@@@@@@@@@@@@@@&:                                 
+      .:                                P@@@@@@@@@@@@@@@@@@@@&:                                 
+    :G#&5                               7@@@@@@@@@@@@@@@@@@@@P                                  
+    .G@@@?                               J@@@@@@@@@@@@@@@@@@G:                                  
+     :#@@&^                               ~G@@@@@@@@@@@@@@#J                                    
+      !@@@B.                                ~YG&@@@@@@&B5!.  ::^:.                              
+       Y@@@Y                                   .^~~!~^:   !P#&@@@&B57:                          
+       .B@@@!                                           ~B@&G555G&@@@&P~                        
+        ^&@@#:                                         ^G5JJPB#BP7Y@@@@@5.                      
+         7@@@G                                      .:~JPB&@@@@@@@^P@@@@@B:                     
+          5@@@J                              .:^!?YP#&@@@@@@@@@@@B^B@@@@@@#^                    
+          .#@@@~             :!77777??JYY5GGB&&@@@@@@@@@@@@@@@#PJ?B@@@@@@@@#:                   
+           ~@@@#.           J&@@@@@@@@@@@@@@@@@@@@@@@@@@@&BPYJYP#@@@@@@@@@@@B.                  
+            J@@@5          :@@@@@@@@@@@@@@@@@@@@@@@&#G5J!Y5G#@@@@@@@@@@@@@@@@P                  
+             P@@@?          7#@@@@@@@@@&&&#BBG5Y?7~:.    J@@@@@@@@@@@@@@@@@@@@?                 
+             ^#@@&^ ........ .^!!!!!~~^^^::.              J@@@@@@@@@@@@@@@@@@@&^                
+           :B#&@@@&###########BBBBBBBBB#####5              5@@@@@@@@@@@@@@@@@@@P                
+           .B###############################5              .B@@@@@@@@@@@@@@@@@@@~               
+
 ### About    
 I am a software engineer specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
