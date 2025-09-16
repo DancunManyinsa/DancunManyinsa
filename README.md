@@ -49,6 +49,7 @@ Here are some ideas to get you started:
              ^#@@&^ ........ .^!!!!!~~^^^::.              J@@@@@@@@@@@@@@@@@@@&^                
            :B#&@@@&###########BBBBBBBBB#####5              5@@@@@@@@@@@@@@@@@@@P                
            .B###############################5              .B@@@@@@@@@@@@@@@@@@@~               
+                                                                                                           
 
 ### About    
 I am a software engineer specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
